@@ -1,0 +1,7 @@
+# Project files
+*.bak
+*.bak/
+.env
+/.vscode/
+/bin/
+/__debug_bin*
